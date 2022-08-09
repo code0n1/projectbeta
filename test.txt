@@ -1,1 +1,5 @@
-i love again coding
+<<<<<<< HEAD
+i love again 
+=======
+i love coding again
+>>>>>>> feature
